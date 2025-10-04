@@ -1,0 +1,17 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\bin\Debug\net8.0\DigitalWallet.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\bin\Debug\net8.0\DigitalWallet.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\bin\Debug\net8.0\DigitalWallet.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\bin\Debug\net8.0\DigitalWallet.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\bin\Debug\net8.0\DigitalWallet.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalWallet.csproj.AssemblyReference.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalWallet.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalWallet.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalWallet.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalW.1200D1A0.Up2Date
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalWallet.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\refint\DigitalWallet.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalWallet.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\DigitalWallet.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DigitalWallet\obj\Debug\net8.0\ref\DigitalWallet.dll

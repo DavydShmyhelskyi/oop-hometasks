@@ -1,0 +1,14 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\bin\Debug\net8.0\Hohework_01-09-2025.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\bin\Debug\net8.0\Hohework_01-09-2025.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\bin\Debug\net8.0\Hohework_01-09-2025.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\bin\Debug\net8.0\Hohework_01-09-2025.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\bin\Debug\net8.0\Hohework_01-09-2025.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\Hohework_01-09-2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\Hohework_01-09-2025.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\Hohework_01-09-2025.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\Hohework_01-09-2025.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\Hohework_01-09-2025.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\refint\Hohework_01-09-2025.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\Hohework_01-09-2025.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\Hohework_01-09-2025.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Hohework_01-09-2025\obj\Debug\net8.0\ref\Hohework_01-09-2025.dll

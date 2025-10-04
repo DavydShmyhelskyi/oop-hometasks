@@ -1,0 +1,14 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\bin\Debug\net8.0\DiitalWallet.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\bin\Debug\net8.0\DiitalWallet.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\bin\Debug\net8.0\DiitalWallet.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\bin\Debug\net8.0\DiitalWallet.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\bin\Debug\net8.0\DiitalWallet.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\DiitalWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\DiitalWallet.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\DiitalWallet.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\DiitalWallet.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\DiitalWallet.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\refint\DiitalWallet.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\DiitalWallet.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\DiitalWallet.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\DiitalWallet\obj\Debug\net8.0\ref\DiitalWallet.dll
