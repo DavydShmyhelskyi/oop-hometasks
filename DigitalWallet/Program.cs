@@ -1,20 +1,19 @@
 ﻿using DigitalWalletApp.Entities;
 using DigitalWalletApp.Interfaces;
 using DigitalWalletApp.Providers;
+using DigitalWalletApp.Repositories;
 using DigitalWalletApp.Services;
 
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-// Створення користувача та гаманця
 User user = UserInitializer.CreateDefault();
 DigitalWallet wallet = WalletInitializer.CreateDefault(user);
 
-// Провайдери логіну
 IloginProvider gmailProvider = new GmailProvider();
 IloginProvider privatProvider = new Privat24Provider();
 
-// Сервіс гаманця
 IDigitalWalletService walletService = new DigitallWalletService();
+ITransactionRepository transactionRepository = null;
 
 Console.WriteLine("=== Digital Wallet Console ===");
 Console.WriteLine("Оберіть спосіб входу:");
@@ -100,13 +99,48 @@ while (true)
             break;
 
         case "4":
-            var transactions = walletService.GetTransactionLog(wallet);
-            Console.WriteLine("=== Історія транзакцій ===");
-            foreach (var t in transactions)
+            Console.WriteLine("Оберіть спосіб збереження історії транзакцій:");
+            Console.WriteLine("1. Текстовий файл (TXT)");
+            Console.WriteLine("2. Файл CSV");
+            Console.WriteLine("3. Показати історію транзакцій в консолі");
+            string ch = Console.ReadLine();
+
+            switch (ch)
             {
-                Console.WriteLine(t);
+                case "1":
+                    transactionRepository = new TxtTransactionRepository();
+                    foreach (var t in wallet.TransactionsLog)
+                    {
+                        transactionRepository.SaveTransaction(wallet, t.ToString());
+                    }
+                    Console.WriteLine("Історію транзакцій збережено у TXT-файл!");
+                    break;
+
+                case "2":
+                    transactionRepository = new CsvTransactionRepository();
+                    foreach (var t in wallet.TransactionsLog)
+                    {
+                        transactionRepository.SaveTransaction(wallet, t.ToString());
+                    }
+                    Console.WriteLine("Історію транзакцій збережено у CSV-файл!");
+                    break;
+
+                case "3":
+                    var transactions = walletService.GetTransactionLog(wallet);
+                    Console.WriteLine("=== Історія транзакцій ===");
+                    foreach (var t in transactions)
+                    {
+                        Console.WriteLine(t);
+                    }
+                    break;
+
+                default:
+                    Console.WriteLine("❌ Невірний вибір! Використовується стандартне сховище в пам'яті.");
+                    break;
             }
+
             break;
+
 
         case "5":
             Console.WriteLine("👋 Вихід...");
