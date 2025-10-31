@@ -12,7 +12,7 @@ namespace SqlFabric.Directors
                 .Columns(new List<string> { "id", "email", "created_at" })
                 .From("users")
                 .Where("lower(email) LIKE lower('%@gmail.com%')")
-                .OrderBy("created_at", ascending: false)
+                .OrderBy("created_at", ascending: true)
                 .Limit(10)
                 .Offset(20)
                 .Build();

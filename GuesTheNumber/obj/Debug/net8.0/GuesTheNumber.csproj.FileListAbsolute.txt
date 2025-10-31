@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\bin\Debug\net8.0\GuesTheNumber.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\bin\Debug\net8.0\GuesTheNumber.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\bin\Debug\net8.0\GuesTheNumber.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\bin\Debug\net8.0\GuesTheNumber.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\bin\Debug\net8.0\GuesTheNumber.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\GuesTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\GuesTheNumber.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\GuesTheNumber.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\GuesTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\GuesTheNumber.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\GuesTheNumber.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\refint\GuesTheNumber.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\GuesTheNumber.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\GuesTheNumber.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\GuesTheNumber\obj\Debug\net8.0\ref\GuesTheNumber.dll

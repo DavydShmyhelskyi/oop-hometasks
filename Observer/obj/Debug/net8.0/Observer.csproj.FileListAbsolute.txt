@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\bin\Debug\net8.0\Observer.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\bin\Debug\net8.0\Observer.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\bin\Debug\net8.0\Observer.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\bin\Debug\net8.0\Observer.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\bin\Debug\net8.0\Observer.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\Observer.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\Observer.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\Observer.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\Observer.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\refint\Observer.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\Observer.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\Observer.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Observer\obj\Debug\net8.0\ref\Observer.dll
