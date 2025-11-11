@@ -203,7 +203,8 @@ for (int i = 2; i < N; i += 2)
         minEvenIndex = A[i];
 }
 if (minEvenIndex < 0) {
-    Console.WriteLine("Немфє парних")}
+    Console.WriteLine("Немфє парних");
+}
 else {
     Console.WriteLine($"Мінімальний елемент з парними номерами: {minEvenIndex}");
 }

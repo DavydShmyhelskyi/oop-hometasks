@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\bin\Debug\net8.0\SumLinq.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\bin\Debug\net8.0\SumLinq.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\bin\Debug\net8.0\SumLinq.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\bin\Debug\net8.0\SumLinq.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\bin\Debug\net8.0\SumLinq.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\SumLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\SumLinq.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\SumLinq.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\SumLinq.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\SumLinq.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\SumLinq.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\refint\SumLinq.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\SumLinq.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\SumLinq.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SumLinq\obj\Debug\net8.0\ref\SumLinq.dll

@@ -1,0 +1,12 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\bin\Debug\net8.0\KataStringCalc.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\bin\Debug\net8.0\KataStringCalc.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\bin\Debug\net8.0\KataStringCalc.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\KataStringCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\KataStringCalc.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\KataStringCalc.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\KataStringCalc.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\KataStringCalc.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\KataStringCalc.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\refint\KataStringCalc.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\KataStringCalc.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\KataStringCalc\obj\Debug\net8.0\ref\KataStringCalc.dll

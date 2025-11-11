@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\bin\Debug\net8.0\CalculatorNum.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\bin\Debug\net8.0\CalculatorNum.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\bin\Debug\net8.0\CalculatorNum.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\bin\Debug\net8.0\CalculatorNum.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\bin\Debug\net8.0\CalculatorNum.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\CalculatorNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\CalculatorNum.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\CalculatorNum.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\CalculatorNum.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\CalculatorNum.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\CalculatorNum.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\refint\CalculatorNum.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\CalculatorNum.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\CalculatorNum.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CalculatorNum\obj\Debug\net8.0\ref\CalculatorNum.dll

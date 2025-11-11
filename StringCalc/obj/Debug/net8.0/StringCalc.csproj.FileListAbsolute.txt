@@ -1,0 +1,5 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\StringCalc\obj\Debug\net8.0\StringCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\StringCalc\obj\Debug\net8.0\StringCalc.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\StringCalc\obj\Debug\net8.0\StringCalc.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\StringCalc\obj\Debug\net8.0\StringCalc.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\StringCalc\obj\Debug\net8.0\StringCalc.sourcelink.json

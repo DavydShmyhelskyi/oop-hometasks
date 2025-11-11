@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\bin\Debug\net8.0\UserList.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\bin\Debug\net8.0\UserList.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\bin\Debug\net8.0\UserList.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\bin\Debug\net8.0\UserList.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\bin\Debug\net8.0\UserList.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\UserList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\UserList.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\UserList.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\UserList.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\UserList.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\UserList.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\refint\UserList.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\UserList.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\UserList.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\UserList\obj\Debug\net8.0\ref\UserList.dll
