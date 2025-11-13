@@ -21,10 +21,10 @@ namespace Library.Infrastructure.Services
             IRepository<User> userRepo,
             IEmailService emailService)
         {
-            bookRepo = bookRepo;
-            catRepo = catRepo;
-            userRepo = userRepo;
-            emailService = emailService;
+            this.bookRepo = bookRepo;
+            this.catRepo = catRepo;
+            this.userRepo = userRepo;
+            this.emailService = emailService;
         }
 
         public void AddBook(string title, string author, Guid categoryId)

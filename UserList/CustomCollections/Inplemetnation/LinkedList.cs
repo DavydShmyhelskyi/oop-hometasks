@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UserList.CustomCollections.Interfaces;
 
-namespace UserList.CustomCollections.Core
+namespace UserList.CustomCollections.Inplemetnation
 {
     public class LinkedList<T> : ILinkedList<T>
     {

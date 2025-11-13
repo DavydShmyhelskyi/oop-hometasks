@@ -4,11 +4,11 @@ namespace BubleSort.Services
 {
     public class BubbleSorter
     {
-        private readonly CompareDelegate compare;
+        private readonly Func<int, int, bool> compare;
 
-        public BubbleSorter(CompareDelegate compare)
+        public BubbleSorter(Func<int, int, bool> compare)
         {
-            this.compare = compare ?? throw new ArgumentNullException(nameof(compare));
+            this.compare = compare;
         }
 
         public void Sort(int[] numbers)

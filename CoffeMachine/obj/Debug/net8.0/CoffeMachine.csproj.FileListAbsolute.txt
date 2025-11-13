@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\CoffeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\CoffeMachine.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\CoffeMachine.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\CoffeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\CoffeMachine.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\bin\Debug\net8.0\CoffeMachine.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\bin\Debug\net8.0\CoffeMachine.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\bin\Debug\net8.0\CoffeMachine.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\bin\Debug\net8.0\CoffeMachine.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\bin\Debug\net8.0\CoffeMachine.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\CoffeMachine.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\refint\CoffeMachine.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\CoffeMachine.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\CoffeMachine.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\CoffeMachine\obj\Debug\net8.0\ref\CoffeMachine.dll

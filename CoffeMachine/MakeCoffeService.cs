@@ -1,23 +1,33 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CoffeMachine
 {
     public class MakeCoffeService : CoffeMachineService
     {
+        // Для еспресо
+        private const int EspressoRequiredWater = 30;
+        private const int EspressoRequiredBeans = 20;
+        private const int EspressoWaterToPour = 50;
+
+        // Для лате
+        private const int LatteRequiredWater = 30;
+        private const int LatteRequiredBeans = 25;
+        private const int LatteWaterToPour = 50;
+        private const int LatteMilkToPour = 100;
+
         public void MakeEspresso(CoffeMachine coffeMachine)
         {
-            if (IsEhoughWater(coffeMachine, 30) && IsEhoughBeans(coffeMachine, 20))
+            if (IsEhoughWater(coffeMachine, EspressoRequiredWater) &&
+                IsEhoughBeans(coffeMachine, EspressoRequiredBeans))
             {
                 if (!IsWaterHeated(coffeMachine))
                 {
                     HeatWater(coffeMachine);
                 }
-                GrindBeans(coffeMachine, 20);
-                PourWater(coffeMachine, 50);
+
+                GrindBeans(coffeMachine, EspressoRequiredBeans);
+                PourWater(coffeMachine, EspressoWaterToPour);
+
                 Console.WriteLine("\nEspresso is ready!\n");
             }
             else
@@ -25,9 +35,11 @@ namespace CoffeMachine
                 Console.WriteLine("Cannot make Espresso.");
             }
         }
+
         public void MakeLatte(CoffeMachine coffeMachine)
         {
-            if (IsEhoughWater(coffeMachine, 30) && IsEhoughBeans(coffeMachine, 30))
+            if (IsEhoughWater(coffeMachine, LatteRequiredWater) &&
+                IsEhoughBeans(coffeMachine, LatteRequiredBeans))
             {
                 if (!IsWaterHeated(coffeMachine))
                 {
@@ -37,18 +49,17 @@ namespace CoffeMachine
                 {
                     HeatMilk(coffeMachine);
                 }
-                GrindBeans(coffeMachine, 20);
-                PourWater(coffeMachine, 50);
-                PourMilk(coffeMachine, 100);
+
+                GrindBeans(coffeMachine, LatteRequiredBeans);
+                PourWater(coffeMachine, LatteWaterToPour);
+                PourMilk(coffeMachine, LatteMilkToPour);
+
                 Console.WriteLine("\nLatte is ready!\n");
             }
             else
             {
-                Console.WriteLine("Cannot make Espresso.");
+                Console.WriteLine("Cannot make Latte.");
             }
         }
     }
-
 }
-/*MakeEspresso публічний метод, якому потрібно 20 грам кавових зерен, щоб зробити порцію
-MakeLatte публічний метод, якому потрібно 25 грам кавових зерен, щоб зробити порцію*/
