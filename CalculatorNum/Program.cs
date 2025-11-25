@@ -1,26 +1,20 @@
 ﻿using CalculatorNum;
+using System.Numerics;
 
-static void RunIntegerCalculator()
+static void RunCalculator<T>(Calculator<T> calc, T a, T b)
+    where T : INumber<T>
 {
-    var calc = new Calculator<int>();
     Console.WriteLine("Integer Calculator:");
-    Console.WriteLine($"5 + 3 = {calc.Add(5, 3)}");
-    Console.WriteLine($"5 - 3 = {calc.Subtract(5, 3)}");
-    Console.WriteLine($"5 * 3 = {calc.Multiply(5, 3)}");
-    Console.WriteLine($"9 / 3 = {calc.Divide(9, 3)}");
-    Console.WriteLine($"2 ^ 3 = {calc.Pow(2, 3)}");
+    Console.WriteLine($"{a} + {b} = {calc.Add(a, b)}");
+    Console.WriteLine($"{a} - {b} = {calc.Subtract(a, b)}");
+    Console.WriteLine($"{a} * {b} = {calc.Multiply(a, b)}");
+    Console.WriteLine($"{a} / {b} = {calc.Divide(a, b)}");
+    Console.WriteLine($"{a} ^ {b} = {calc.Pow(a, b)}");
 }
 
-static void RunFloatingCalculator()
-{
-    var calc = new Calculator<double>();
-    Console.WriteLine("\nFloating Calculator:");
-    Console.WriteLine($"5.2 + 3.1 = {calc.Add(5.2, 3.1)}");
-    Console.WriteLine($"5.2 - 3.1 = {calc.Subtract(5.2, 3.1)}");
-    Console.WriteLine($"5.2 * 3.1 = {calc.Multiply(5.2, 3.1)}");
-    Console.WriteLine($"6.2 / 3.1 = {calc.Divide(6.2, 3.1)}");
-    Console.WriteLine($"2.5 ^ 2 = {calc.Pow(2.5, 2)}");
-}
 
-RunIntegerCalculator();
-RunFloatingCalculator();
+
+RunCalculator(new Calculator<int>(), 5, 3);
+RunCalculator(new Calculator<double>(), 5.2, 3.1);
+
+

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe17976b8d686d65dff978ac26d113599dd27757")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+826ab389e60b5cdda1ad7767ba581b87b87e606a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,19 +1,28 @@
 ﻿using Library.Core.Entities;
 using Library.Infrastructure.Repositories;
 using Library.Infrastructure.Services;
+using Library.Core.Interfaces;
+using Microsoft.Extensions.DependencyInjection;
+
+var services = new ServiceCollection();
 
 // Repositories
-var userRepo = new InMemoryRepository<User>();
-var bookRepo = new InMemoryRepository<Book>();
-var categoryRepo = new InMemoryRepository<Category>();
+services.AddSingleton<IRepository<User>, InMemoryRepository<User>>();
+services.AddSingleton<IRepository<Book>, InMemoryRepository<Book>>();
+services.AddSingleton<IRepository<Category>, InMemoryRepository<Category>>();
+
+
 
 // Services
-var emailService = new EmailService();
-var categoryService = new CategoryService(categoryRepo);
-var userService = new UserService(userRepo, categoryRepo);
-var bookService = new BookService(bookRepo, categoryRepo, userRepo, emailService);
+services.AddSingleton<IEmailService, EmailService>();
+services.AddSingleton<ICategoryService, CategoryService>();
+services.AddSingleton<IUserService, UserService>();
+services.AddSingleton<IBookService, BookService>();
 
 // UI
-var menu = new LibraryMenu(userService, bookService, categoryService);
-
+services.AddSingleton<LibraryMenu>();
+var provider = services.BuildServiceProvider();
+var menu = provider.GetRequiredService<LibraryMenu>();
 menu.Start();
+
+//додати IOC та знати патерни
