@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\bin\Debug\net8.0\NewYearDiscount.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\bin\Debug\net8.0\NewYearDiscount.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\bin\Debug\net8.0\NewYearDiscount.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\bin\Debug\net8.0\NewYearDiscount.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\bin\Debug\net8.0\NewYearDiscount.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\NewYearDiscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\NewYearDiscount.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\NewYearDiscount.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\NewYearDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\NewYearDiscount.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\NewYearDiscount.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\refint\NewYearDiscount.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\NewYearDiscount.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\NewYearDiscount.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\NewYearDiscount\obj\Debug\net8.0\ref\NewYearDiscount.dll

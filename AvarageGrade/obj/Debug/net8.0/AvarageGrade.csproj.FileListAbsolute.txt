@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\bin\Debug\net8.0\AvarageGrade.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\bin\Debug\net8.0\AvarageGrade.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\bin\Debug\net8.0\AvarageGrade.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\bin\Debug\net8.0\AvarageGrade.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\bin\Debug\net8.0\AvarageGrade.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\AvarageGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\AvarageGrade.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\AvarageGrade.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\AvarageGrade.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\AvarageGrade.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\AvarageGrade.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\refint\AvarageGrade.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\AvarageGrade.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\AvarageGrade.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\AvarageGrade\obj\Debug\net8.0\ref\AvarageGrade.dll

@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\bin\Debug\net8.0\Decorator.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\bin\Debug\net8.0\Decorator.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\bin\Debug\net8.0\Decorator.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\bin\Debug\net8.0\Decorator.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\Decorator.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\Decorator.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\Decorator.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Decorator\obj\Debug\net8.0\ref\Decorator.dll

@@ -1,0 +1,13 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\MedtatR.csproj.AssemblyReference.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\MedtatR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\MedtatR.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\MedtatR.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\MedtatR.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\MedtatR.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\bin\Debug\net8.0\MedtatR.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\bin\Debug\net8.0\MedtatR.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\bin\Debug\net8.0\MedtatR.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\MedtatR.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\refint\MedtatR.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\MedtatR.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\MedtatR\obj\Debug\net8.0\ref\MedtatR.dll

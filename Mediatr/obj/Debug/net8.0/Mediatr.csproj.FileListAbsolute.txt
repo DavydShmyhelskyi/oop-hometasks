@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\bin\Debug\net8.0\Mediatr.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\bin\Debug\net8.0\Mediatr.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\bin\Debug\net8.0\Mediatr.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\bin\Debug\net8.0\Mediatr.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\bin\Debug\net8.0\Mediatr.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\Mediatr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\Mediatr.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\Mediatr.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\Mediatr.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\Mediatr.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\Mediatr.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\refint\Mediatr.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\Mediatr.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\Mediatr.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Mediatr\obj\Debug\net8.0\ref\Mediatr.dll

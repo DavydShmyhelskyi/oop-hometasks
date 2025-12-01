@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVBpXIqHgbI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Graf David\\source\\repos\\Hohework_01-09-2025\\MedtatR\\MedtatR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Graf David\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\Graf David\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\bin\Debug\net8.0\ChairFabric.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\bin\Debug\net8.0\ChairFabric.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\bin\Debug\net8.0\ChairFabric.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\bin\Debug\net8.0\ChairFabric.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\bin\Debug\net8.0\ChairFabric.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ChairFabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ChairFabric.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ChairFabric.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ChairFabric.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ChairFabric.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ChairFabric.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\refint\ChairFabric.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ChairFabric.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ChairFabric.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\ChairFabric\obj\Debug\net8.0\ref\ChairFabric.dll

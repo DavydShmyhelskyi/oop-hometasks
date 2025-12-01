@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\bin\Debug\net8.0\Strategy.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\bin\Debug\net8.0\Strategy.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\bin\Debug\net8.0\Strategy.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\bin\Debug\net8.0\Strategy.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\Strategy.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\Strategy.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\Strategy.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\Strategy\obj\Debug\net8.0\ref\Strategy.dll

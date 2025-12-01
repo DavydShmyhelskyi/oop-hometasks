@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlFabric")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+826ab389e60b5cdda1ad7767ba581b87b87e606a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9adf4e48c4170b1286d20dd49b1fe426aaaf75")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlFabric")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlFabric")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

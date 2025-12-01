@@ -1,0 +1,15 @@
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\bin\Debug\net8.0\SqlBuilder.exe
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\bin\Debug\net8.0\SqlBuilder.deps.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\bin\Debug\net8.0\SqlBuilder.runtimeconfig.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\bin\Debug\net8.0\SqlBuilder.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\bin\Debug\net8.0\SqlBuilder.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\SqlBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\SqlBuilder.AssemblyInfoInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\SqlBuilder.AssemblyInfo.cs
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\SqlBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\SqlBuilder.sourcelink.json
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\SqlBuilder.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\refint\SqlBuilder.dll
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\SqlBuilder.pdb
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\SqlBuilder.genruntimeconfig.cache
+C:\Users\Graf David\source\repos\Hohework_01-09-2025\SqlBuilder\obj\Debug\net8.0\ref\SqlBuilder.dll
